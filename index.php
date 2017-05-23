@@ -52,7 +52,7 @@
 			            <p> - El campo estara conformado por una matriz de 3x3, con recuadros de color gris que emulara al campo minado, simplemente dale click a cada recuadros.</p>
 			            <p> - Si el recuadro se vuelve verde, quiere decir que estas a salvo.</p>
 			            <p> - Si sale un mensaje de GAME OVER y el recuadro se vuelve rojo, quiere decir que estas muerto.</p>
-			            <p> - Una vez que pierdas, dale click al boton Reset para iniciar el juego nuevamente.</p>
+			            <p> - Una vez que pierdas, se le debe dar click al boton de Reset para iniciar el juego nuevamente.</p>
 				    </div>
 
 				        <div class="modal-footer" background-color="gray">
